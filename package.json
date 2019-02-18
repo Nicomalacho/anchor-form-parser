@@ -1,6 +1,6 @@
 {
   "name": "anchor-form-parser",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "stellar anchor form parser",
   "main": "lib/anchor-form-parser.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "build-url": "^1.3.2",
+    "lodash": "^4.17.11",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
     "stellar-sdk": "^0.13.0"
